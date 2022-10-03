@@ -15,4 +15,4 @@ TricksterViz repos are setup to use gitpod.io for coding environments.
 
 1) Setup Your GitPod.io account.
 2) Create the GitPod.io workspace for this repo, in your account
-3) [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TricksterViz/GrabHockeyLogos)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TricksterViz/GrabHockeyLogos)
