@@ -1,6 +1,0 @@
-tasks:
-  - name: Deno
-    init: |
-      chmod +x /workspace/GrabHockeyLogos/setup.sh
-    command: |
-      /workspace/GrabHockeyLogos/setup.sh
