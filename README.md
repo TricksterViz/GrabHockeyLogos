@@ -10,9 +10,10 @@ This repo stores example scripts for running batch operations on the url to grab
 **NOTE: Using this script potentially violates copyright, trademark, and terms of use agreements for the NHL and ESPN.**  
 *use only for personal/non-professional situations, such as putting an image into a homemade spreadsheet to track hockey tickets*
 
-## Setup
-TricksterViz repos are setup to use gitpod.io for coding environments.
+## Setup for GitPod
+TricksterViz repos are setup to use gitpod.io for coding environments.  GitPod runs VSCode in a container, accessible through your web-broswer.  It gives you a nice little coding environment without having to configure your local computer. 
 
 1) Setup Your GitPod.io account.
 2) Create the GitPod.io workspace for this repo, in your account
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TricksterViz/GrabHockeyLogos)
