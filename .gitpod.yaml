@@ -1,2 +1,11 @@
-image:
-  file: .gitpod.dockerfile
+tasks:
+  - name: Deno
+    init: |
+      curl -fsSL https://deno.land/x/install/install.sh | sh
+      gp sync-done installation
+    command: |
+      export DENO_INSTALL="/home/gitpod/.deno"
+      export PATH="$DENO_INSTALL/bin:$PATH"
+      
+  - init: gp sync-await installation
+    command: echo $PATH
